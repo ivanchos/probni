@@ -1,2 +1,0 @@
-# probni
-ekstenzija.doc
